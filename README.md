@@ -1,7 +1,7 @@
-<center><h1>Fake-Mail-Gen-BOT</h1></center>                                         
+<center><h1>Anjali-Fake-Mail-Gen-BOT</h1></center>                                         
 
 
-## 👨‍💻Dᴇᴠᴇʟᴏᴘᴇʀ : @ImDenuwan
+## 👨‍💻Dᴇᴠᴇʟᴏᴘᴇʀ :@QUEENx_GOD
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
  
